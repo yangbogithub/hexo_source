@@ -71,3 +71,6 @@ deploy:
   type: git 
   repo: git@github.com:yangbogithub/yangbogithub.github.io.git
   branch: master
+
+# duoshuo
+duoshuo_shortname: iyangbo
