@@ -1,10 +1,12 @@
 ---
-title: filter unused string
+title: 过滤Localizable.strings多余的字符串
 date: 2017-02-09 17:17:31
-tags: python,ios
+tags: [python,ios]
+categories: 技术
 ---
 
-#使用
+## 使用
+
 命令：
 ```bash
 python [脚本文件路径] [工程目录路径] [Localizable.strings路径]
@@ -16,6 +18,12 @@ python filter_unused_string.py ~/Desktop/DemoProject ~/Desktop/DemoProject/Base.
 ````
 
 当前目录输出过滤后的`Localizable.strings`文件：`outputLocalizable.strings`
+
+代码[下载地址](https://github.com/yangbogithub/filter_unused_string)
+
+
+## 代码
+
 
 ```
 
