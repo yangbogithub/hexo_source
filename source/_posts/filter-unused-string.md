@@ -1,7 +1,7 @@
 ---
 title: filter unused string
 date: 2017-02-09 17:17:31
-tags: python ios
+tags: python,ios
 ---
 
 #使用
